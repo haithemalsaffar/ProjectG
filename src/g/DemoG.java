@@ -1,6 +1,9 @@
 package g;
 
 public class DemoG {
+	//In this example, the repeatSubstring method uses a StringBuilder to build the resulting string.
+	//It iterates from n down to 1, appending the first i characters of the input string in each iteration.
+	//The method then returns the final result as a string.
 	
 
 	    public static void main(String[] args) {
